@@ -1,9 +1,14 @@
 # Program to print X shape of N lines
 
-lines=int(input("Enter the number of lines you want to print X: "))
+number_of_lines = int(input('Enter number of lines to draw the star shape: '))
 
-for i in range(1,lines+1):
-    for j in range(1,lines+1):
-        
+for i in range(number_of_lines):
+    for j in range(number_of_lines):
+        if j == i or j == number_of_lines - i - 1:
+            print('* ', end='')
+        else:
+            print('  ', end='')
+    print()
+
 
 
