@@ -1,11 +1,11 @@
 # Program to print a Hollow Square of N lines
 
-N=int(input("Enter the nummber: "))
+N=int(input("Enter the number: "))
 
-print(N*"*"+" ")
+print(N*"* "+" ")
 for i in range(N - 2):
-    print('*' + ' ' * (N - 2) + '*')
-print(N*"*"+" ")
+    print('* ' + '  ' * (N - 2) + '*')
+print(N*"* "+" ")
 
 
 
