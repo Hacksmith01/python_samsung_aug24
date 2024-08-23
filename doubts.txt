@@ -1,1 +1,4 @@
 c++ 11 and c++14
+what are aggeragate functions
+sql
+
