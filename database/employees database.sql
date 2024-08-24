@@ -43,4 +43,15 @@ select * from employees;
 update employees set id auto_increment=1 where ;
 
 -- (group by)print the average salaries of employees with diffrent disignations
-select designation,avg(salary) from employees group by avg;
+select designation,avg(salary) as average_salary from employees group by designation;
+
+-- Print the sum of salaries of employees of different technology.
+
+
+
+
+
+
+
+
+
