@@ -1,4 +1,10 @@
 c++ 11 and c++14
 what are aggeragate functions
 sql
+mongodb-document based database management system
+mcsr and mcmr
+company certifications
+microsoft,sap certifications online
+internships
 
+course certifications-nptel
