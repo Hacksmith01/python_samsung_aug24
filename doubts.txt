@@ -3,3 +3,8 @@ what are aggeragate functions
 sql
 mongodb-document based database management system
 mcsr and mcmr
+company certifications
+microsoft,sap certifications online
+internships
+
+course certifications-nptel
