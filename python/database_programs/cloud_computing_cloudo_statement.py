@@ -23,9 +23,3 @@ else:
     print("The sum has to be delocated")
 
 
-
-
-
-
-
-
