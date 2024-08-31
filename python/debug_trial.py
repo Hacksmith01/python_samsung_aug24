@@ -49,6 +49,16 @@ def sum_digits(num):
 
 input_number=int(input("Enter a number to find su of digits: "))
 summ=sum_digits(input_number)
-print(f'sum of digits of {input_number} = {summ}')+
+print(f'sum of digits of {input_number} = {summ}')
+
+
+
+
+
+
+
+
+
+
 
 
