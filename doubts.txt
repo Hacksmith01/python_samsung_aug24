@@ -12,3 +12,12 @@ course certifications-nptel
 
 call by refrence and call by value
 how to link diffrent python files
+
+C:\ishan samsung\ishan_learning\python_samsung_aug24\python>python -m pdb debug_trial.py
+
+
+b number_here = creates breakpoint to the debug mode
+n= next goes to the starting line
+s= step inside the function
+c= continue until next breakpoint
+
